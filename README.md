@@ -44,8 +44,8 @@ Khóa ngoại: @MAKHACH tham chiếu từ bảng khách hàng cho biết khách 
 Khóa chính: SHDTHANHTOAN là thuộc tính phân biệt các hóa đơn thanh toán
 Khóa ngoại: @SHDTHUEPHONG tham chiếu từ bảng hóa đơn thuê phòng cho biết hóa đơn thuê phòng cần thanh toán, @MANHANVIEN tham chiếu từ bảng nhân viên cho biết nhân viên nào lập hóa đơn thanh toán
 ![Screenshot 2024-06-17 224005](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/835511b1-137b-4302-8807-dc59865c0059)
-![Screenshot 2024-06-17 223817](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/dc649c7d-ba8e-4933-a18c-69efae388d31)
-![Picture1](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/51e046b8-bb4a-417a-b574-9d7bed00493c)
+![![Screenshot 2024-06-17 224034](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/5534ce6b-89ba-4804-afcb-cd65f42ddf06)
+Picture1](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/51e046b8-bb4a-417a-b574-9d7bed00493c)
 Trên đây là mô hình dữ liệu sau khi tạo các bảng trên sql server. 
 •	Một loại phòng có nhiều phòng. Một phòng thuộc 1 loại phòng duy nhất.
 •	Một thiết bị được sử dụng cho nhiều phòng và mỗi phòng có nhiều thiết bị.
