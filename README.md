@@ -59,20 +59,7 @@ Trên đây là mô hình dữ liệu sau khi tạo các bảng trên sql server
 
 
 3.4. Tạo thủ tục, trigger
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/2e3a0025-b702-42a8-980e-488e57ea625e)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/d0bf6abc-d5a2-40f1-bbf1-54be37a00ee8)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/43a4b897-979f-4b46-a78f-2d25d5412c71)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/de4b51d2-d921-4595-9c76-b0d756e60163)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/3d72cac5-4075-4c56-932d-20950ddbeee3)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/2af05dbf-ef43-4ae4-aac0-9ab4fcdd051a)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/9317ccee-7340-4776-875a-e795f644c957)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/aeed55e7-0753-4fb1-940b-075b25ba285a)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/c4bfe237-fbcb-4ca8-a9fd-40110e892f20)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/17541318-53eb-4dfb-baff-24afb4f7b52e)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/d7b32e11-8283-45a8-a63d-103e4bd89575)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/4fcd3770-ed8e-473d-8027-7148d521e44f)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/85275ce4-3245-4cf8-a717-f37e1fb52bfc)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/0211bc36-7e17-48a4-8ef9-ecce0c6e497b)
+
 
 
 
