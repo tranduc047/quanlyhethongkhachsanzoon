@@ -6,14 +6,14 @@ MSSV: K215480106140
 Xây dựng quản lí hệ thống khách sạn nhằm hỗ trợ quản lý công việc thu chi, quản lý phòng, thiết bị, dịch vụ và thuê phòng để tránh việc thất thoát và hạn chế số lượng nhân viên. Nhân viên sẽ không còn phải mất nhiều thời gian cho công việc ghi chép sổ sách và người quản lí có thể thống kê tình hình kinh doanh mà không phải chờ đến các báo cáo từ nhân viên. Đồng thời người quản lý có thể quản lý đội ngũ nhân viên một cách dễ dàng hơn.
 ![Screenshot 2024-06-17 223817](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/c531fab1-5a11-43b8-8935-cf82cbccc764)
 3.1 các chức năng:
-- Quản lý nhân viên cho phép thêm, sửa, xóa thông tin nhân viên
+- Quản lý nhân viên: cho phép thêm, sửa, xóa thông tin nhân viên
 - Quản lý thiết bị: cho phép thêm, sửa, xóa thông tin thiết bị
 - Quản lý loại phòng: cho phép thêm, sửa, xóa thông tin loại phòng
 - Quản lý phòng: cho phép thêm, sửa thông tin phòng
 - Quản lý sử dụng thiết bị phòng: cho phép thêm, sửa số lượng, xóa thiết bị trong phòng.
 - Quản lý khách hàng: cho phép thêm, sửa  thông tin khách hàng
 - Quản lý hóa đơn thuê phòng: cho phép thêm, sửa  thông tin thuê phòng của khách hàng.
-- Quản lý hóa đơn thanh tón: cho phép thêm, sửa  thông tin thanh toán thuê phòng của khách hàng.
+- Quản lý hóa đơn thanh toán: cho phép thêm, sửa  thông tin thanh toán thuê phòng của khách hàng.
 - Thống kê doanh thu theo tháng: Cho phép thống kê doanh thu của khách sạn theo tháng.
 
 3.2. Báo cáo: 
