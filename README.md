@@ -20,7 +20,7 @@ Xây dựng quản lí hệ thống khách sạn nhằm hỗ trợ quản lý c�
 - Báo cáo doanh thu theo tháng
 - Báo cáo tình trạng các phòng cho thuê
 - Báo cáo số lượng khách thuê phòng theo tháng
-- Báo cáo tình trạng thiết bị
+
 
 3.3. Các bảng của hệ thống 
 Với các mô tả chức năng và báo cáo như trên thì bài toán cần có các bảng sau:
