@@ -1,5 +1,5 @@
-Họ và tên: Trần Quang Đức
-MSSV: K215480106140
+- Họ và tên: Trần Quang Đức
+- MSSV: K215480106140
 1. Tên bài toán: quản lý hệ thống khách sạn Zoon
 2. readme gồm các ý sau: thông tin cá nhân + bước 1+ bước 3 + bước 4
 3. mô tả bài toán: 
