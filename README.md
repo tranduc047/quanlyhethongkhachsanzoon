@@ -70,8 +70,11 @@ Trên đây là mô hình dữ liệu sau khi tạo các bảng trên sql server
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/5e94c271-bdff-4567-8141-a3200da3b348)
 
 3.5 Function 
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/492f67aa-f5dc-4eb0-bcf1-3cd524f2d411)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/3b7b9ddc-f6cd-4e70-8ba6-96a0974ff199)
 
 3.6 Trigger
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/fb69ff67-bc19-4508-b4c6-cd6241556564)
 
 
 
