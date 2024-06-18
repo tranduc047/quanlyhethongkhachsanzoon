@@ -58,7 +58,22 @@ Trên đây là mô hình dữ liệu sau khi tạo các bảng trên sql server
 - Một nhân viên có thể lập nhiều hóa đơn thanh toán phòng.
 
 
-3.4. Tạo thủ tục, trigger
+3.4. Tạo thủ tục
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/8b33d782-7841-4996-9f32-0f26cbf3296c)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/92844b8b-23ca-4e5f-9153-fe46dcb17ff3)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/261cfc5c-b885-4743-bf27-ff69dd92e1ce)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/71b203b5-4168-4e8a-bf54-987710bcb726)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/95e77792-c6f4-4445-a2fe-da89b6a8e67d)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/c4715bca-1afb-4438-b6cb-7f7a8837ee76)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/492ddbaa-8b23-4697-9f13-59e4efe8354f)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/06f96ce6-2388-4ea5-bf76-80cd7d018229)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/5e94c271-bdff-4567-8141-a3200da3b348)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/fe528c76-ef99-4f79-abd5-644ed33a3fe5)
+
+3.5 Function 
+
+3.6 Trigger
+
 
 
 
