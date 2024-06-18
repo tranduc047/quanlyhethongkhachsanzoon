@@ -68,10 +68,10 @@ Trên đây là mô hình dữ liệu sau khi tạo các bảng trên sql server
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/492ddbaa-8b23-4697-9f13-59e4efe8354f)
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/06f96ce6-2388-4ea5-bf76-80cd7d018229)
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/5e94c271-bdff-4567-8141-a3200da3b348)
+![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/80c621ef-9f26-4d35-a9eb-81ed9f93a851)
 
 3.5 Function 
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/492f67aa-f5dc-4eb0-bcf1-3cd524f2d411)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/80c621ef-9f26-4d35-a9eb-81ed9f93a851)
 
 3.6 Trigger
 
