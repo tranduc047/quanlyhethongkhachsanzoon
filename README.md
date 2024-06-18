@@ -73,8 +73,8 @@ Trên đây là mô hình dữ liệu sau khi tạo các bảng trên sql server
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/492f67aa-f5dc-4eb0-bcf1-3cd524f2d411)
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/80c621ef-9f26-4d35-a9eb-81ed9f93a851)
 
-
 3.6 Trigger
+
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/8848e080-7652-4fa6-88aa-19feb00c8cc4)
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/bf3a0fb0-8014-4a38-8da0-a46586d3c7ba)
 
