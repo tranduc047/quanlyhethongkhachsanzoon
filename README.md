@@ -68,7 +68,6 @@ Trên đây là mô hình dữ liệu sau khi tạo các bảng trên sql server
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/492ddbaa-8b23-4697-9f13-59e4efe8354f)
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/06f96ce6-2388-4ea5-bf76-80cd7d018229)
 ![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/5e94c271-bdff-4567-8141-a3200da3b348)
-![image](https://github.com/tranduc047/quanlyhethongkhachsanzoon/assets/83036126/fe528c76-ef99-4f79-abd5-644ed33a3fe5)
 
 3.5 Function 
 
